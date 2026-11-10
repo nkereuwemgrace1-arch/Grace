@@ -1,6 +1,6 @@
 # Plain Black Chalkboard Scenes: Heart Attack Video
 
-Scenes 5, 8, 18, 22, 29, 30, 32, 39, 42, 45 and 48. Each prompt is complete and ready to paste.
+Scenes 5, 8, 18, 22, 29, 30, 32, 39, 42, 45, 48, 56, 59, 60 and 70. Each prompt is complete and ready to paste.
 
 ---
 
@@ -133,6 +133,54 @@ Scenes 5, 8, 18, 22, 29, 30, 32, 39, 42, 45 and 48. Each prompt is complete and 
 - **Camera Angle:** Straight-on, frameless board fills the whole frame
 - **Lighting:** Soft, even light
 - **Mood:** warm, engaging
+- **Action:** Key line written across the top; labeled diagram explains it below
+
+
+### Scene 56 · 10:55–11:10 · ~15s
+
+**[Script Segment]** "Aspirin is not safe for everyone. If you're allergic to aspirin or similar pain relievers, don't take it. If you have active bleeding, a recent stomach bleed, a recent bleed in the brain, or a bleeding disorder, don't take it."
+
+**Image Prompt:** Photorealistic photograph of a plain black chalkboard surface that fills the entire 16:9 frame edge to edge, with no frame, border, wall or chalk tray visible anywhere. Matte black slate with faint ghosted half-erased writing, light eraser smudges and fine chalk dust. Shot straight-on at eye level, sharp focus across the whole board. Soft, even lighting with no glare. ON THE BOARD: Across the top, left-aligned over two or three lines, neat slightly irregular handwritten white chalk print reads: "Aspirin is not safe for everyone. Allergic? Active or recent bleeding? A bleeding disorder? Don't take it." The one or two most important words are underlined in sky-blue chalk. Below the text, a labeled chalk diagram explains it: Center: an aspirin tablet inside a blue caution triangle. Around it, three small icons each crossed out in blue: an allergy symbol 'allergy', a blood drop 'bleeding', and a clotting-disorder symbol 'bleeding disorder'. Each drawing has a short lowercase handwritten label beneath it. Drawings are sketchy hand-drawn white chalk with cross-hatched shading; anatomy is clean and never graphic; people are simple chalk outlines. Sky-blue chalk is used only for arrows, symbols, circles, check marks, strike-throughs and the key number. Serious, protective, educational mood. Sharp focus, high detail, all writing legible and correctly spelled. All chalk is white or sky-blue only; no people photographs.
+
+- **Camera Angle:** Straight-on, frameless board fills the whole frame
+- **Lighting:** Soft, even light
+- **Mood:** serious, protective
+- **Action:** Key line written across the top; labeled diagram explains it below
+
+
+### Scene 59 · 11:39–11:52 · ~13s
+
+**[Script Segment]** "Call 911, but don't give aspirin for a stroke. The best plan of all is to ask your doctor now, before anything happens, whether emergency aspirin is right for you. We'll come back to that."
+
+**Image Prompt:** Photorealistic photograph of a plain black chalkboard surface that fills the entire 16:9 frame edge to edge, with no frame, border, wall or chalk tray visible anywhere. Matte black slate with faint ghosted half-erased writing, light eraser smudges and fine chalk dust. Shot straight-on at eye level, sharp focus across the whole board. Soft, even lighting with no glare. ON THE BOARD: Across the top, left-aligned over two or three lines, neat slightly irregular handwritten white chalk print reads: "Stroke signs: call 911, but don't give aspirin. Best plan: ask your doctor now if emergency aspirin is right for you." The one or two most important words are underlined in sky-blue chalk. Below the text, a labeled chalk diagram explains it: Left: a brain with a small bleed area and an aspirin crossed out in blue, labeled 'stroke: no aspirin'. Right: a doctor's office door with a speech bubble 'is aspirin right for me?'. Each drawing has a short lowercase handwritten label beneath it. Drawings are sketchy hand-drawn white chalk with cross-hatched shading; anatomy is clean and never graphic; people are simple chalk outlines. Sky-blue chalk is used only for arrows, symbols, circles, check marks, strike-throughs and the key number. Firm, caring, educational mood. Sharp focus, high detail, all writing legible and correctly spelled. All chalk is white or sky-blue only; no people photographs.
+
+- **Camera Angle:** Straight-on, frameless board fills the whole frame
+- **Lighting:** Soft, even light
+- **Mood:** firm, caring
+- **Action:** Key line written across the top; labeled diagram explains it below
+
+
+### Scene 60 · 11:52–12:03 · ~11s
+
+**[Script Segment]** "Section five. Action number three. Stop, sit down, and use your own nitroglycerin. The third action sounds simple, but almost nobody does it. Stop what you're doing and sit down."
+
+**Image Prompt:** Photorealistic photograph of a plain black chalkboard surface that fills the entire 16:9 frame edge to edge, with no frame, border, wall or chalk tray visible anywhere. Matte black slate with faint ghosted half-erased writing, light eraser smudges and fine chalk dust. Shot straight-on at eye level, sharp focus across the whole board. Soft, even lighting with no glare. ON THE BOARD: Across the top, left-aligned over two or three lines, neat slightly irregular handwritten white chalk print reads: "Section 5 - Action #3: Stop, sit down, and use your own nitroglycerin. Simple - but almost nobody does it." The one or two most important words are underlined in sky-blue chalk. Below the text, a labeled chalk diagram explains it: Left: a large chalk number '5'. Right: a simple figure stopping mid-step and sitting down in a sturdy chair, with a blue arrow from standing to sitting, labeled 'stop and sit down'. Each drawing has a short lowercase handwritten label beneath it. Drawings are sketchy hand-drawn white chalk with cross-hatched shading; anatomy is clean and never graphic; people are simple chalk outlines. Sky-blue chalk is used only for arrows, symbols, circles, check marks, strike-throughs and the key number. Calm, instructive, educational mood. Sharp focus, high detail, all writing legible and correctly spelled. All chalk is white or sky-blue only; no people photographs.
+
+- **Camera Angle:** Straight-on, frameless board fills the whole frame
+- **Lighting:** Soft, even light
+- **Mood:** calm, instructive
+- **Action:** Key line written across the top; labeled diagram explains it below
+
+
+### Scene 70 · 13:45–13:59 · ~14s
+
+**[Script Segment]** "It's called cough CPR, the idea that if you're alone and having a heart attack, you should cough hard and repeatedly to keep your heart going. The American Heart Association does not endorse this for people at home."
+
+**Image Prompt:** Photorealistic photograph of a plain black chalkboard surface that fills the entire 16:9 frame edge to edge, with no frame, border, wall or chalk tray visible anywhere. Matte black slate with faint ghosted half-erased writing, light eraser smudges and fine chalk dust. Shot straight-on at eye level, sharp focus across the whole board. Soft, even lighting with no glare. ON THE BOARD: Across the top, left-aligned over two or three lines, neat slightly irregular handwritten white chalk print reads: ""Cough CPR" - coughing hard to keep your heart going. The American Heart Association doesn't endorse it at home." The one or two most important words are underlined in sky-blue chalk. Below the text, a labeled chalk diagram explains it: Left: a simple figure coughing hard with motion lines, labeled 'cough CPR', crossed out with a bold blue X. Right: a small official seal shape labeled 'AHA: not endorsed at home'. Each drawing has a short lowercase handwritten label beneath it. Drawings are sketchy hand-drawn white chalk with cross-hatched shading; anatomy is clean and never graphic; people are simple chalk outlines. Sky-blue chalk is used only for arrows, symbols, circles, check marks, strike-throughs and the key number. Myth-busting, clear, educational mood. Sharp focus, high detail, all writing legible and correctly spelled. All chalk is white or sky-blue only; no people photographs.
+
+- **Camera Angle:** Straight-on, frameless board fills the whole frame
+- **Lighting:** Soft, even light
+- **Mood:** myth-busting, clear
 - **Action:** Key line written across the top; labeled diagram explains it below
 
 
