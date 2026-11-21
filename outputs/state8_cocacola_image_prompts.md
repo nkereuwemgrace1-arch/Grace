@@ -4,7 +4,7 @@ Total beats: 209 (each ≤13 words ≈ ≤4.7s at 2.75 WPS)
 ## Beat 1
 **[Script Segment]** "Here's something kind of amazing."
 
-**Image Prompt:** Modern Doodle Comic style. a round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie standing in front of a big spinning cartoon globe dotted with tiny red soda bottle pins spreads his arms wide in amazement. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: wonder. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
+**Image Prompt:** Modern Doodle Comic style. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie standing in front of a big spinning cartoon globe dotted with tiny red soda bottle pins spreads his arms wide in amazement. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: wonder. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
 
 - **Camera Angle:** eye-level medium shot
 - **Lighting:** neutral even daylight with flat illustrative shading
@@ -44,7 +44,7 @@ Total beats: 209 (each ≤13 words ≈ ≤4.7s at 2.75 WPS)
 ## Beat 5
 **[Script Segment]** "up in almost every corner of the planet? That's the real question."
 
-**Image Prompt:** Modern Doodle Comic style. a round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie beside a world map with dotted lines spreading from Atlanta to every continent taps the map with a pointer, a big question mark above his head. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: curious. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
+**Image Prompt:** Modern Doodle Comic style. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie beside a world map with dotted lines spreading from Atlanta to every continent taps the map with a pointer, a big question mark above his head. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: curious. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
 
 - **Camera Angle:** eye-level medium shot
 - **Lighting:** neutral even daylight with flat illustrative shading
@@ -64,7 +64,7 @@ Total beats: 209 (each ≤13 words ≈ ≤4.7s at 2.75 WPS)
 ## Beat 7
 **[Script Segment]** "The real question is how Coke got everywhere."
 
-**Image Prompt:** Modern Doodle Comic style. a round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie next to a whiteboard reading "HOW DID COKE GET EVERYWHERE?" underlines the question with a red marker. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: focused. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
+**Image Prompt:** Modern Doodle Comic style. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie next to a whiteboard reading "HOW DID COKE GET EVERYWHERE?" underlines the question with a red marker. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: focused. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
 
 - **Camera Angle:** eye-level medium shot
 - **Lighting:** neutral even daylight with flat illustrative shading
@@ -134,7 +134,7 @@ Total beats: 209 (each ≤13 words ≈ ≤4.7s at 2.75 WPS)
 ## Beat 14
 **[Script Segment]** "Alright. Rewind."
 
-**Image Prompt:** Modern Doodle Comic style. a round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie in front of a giant retro rewind button marked "◀◀" with VHS tracking lines slams the button as calendar pages fly backward. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: energetic. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
+**Image Prompt:** Modern Doodle Comic style. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie in front of a giant retro rewind button marked "◀◀" with VHS tracking lines slams the button as calendar pages fly backward. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: energetic. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
 
 - **Camera Angle:** eye-level medium shot
 - **Lighting:** neutral even daylight with flat illustrative shading
@@ -244,7 +244,7 @@ Total beats: 209 (each ≤13 words ≈ ≤4.7s at 2.75 WPS)
 ## Beat 25
 **[Script Segment]** "Now think about the pathway to market here. There wasn't one."
 
-**Image Prompt:** Modern Doodle Comic style. a round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie next to an empty road map with no routes holds up an empty map with a puzzled face. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: puzzled. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
+**Image Prompt:** Modern Doodle Comic style. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie next to an empty road map with no routes holds up an empty map with a puzzled face. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: puzzled. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
 
 - **Camera Angle:** eye-level medium shot
 - **Lighting:** neutral even daylight with flat illustrative shading
@@ -394,7 +394,7 @@ Total beats: 209 (each ≤13 words ≈ ≤4.7s at 2.75 WPS)
 ## Beat 40
 **[Script Segment]** "That's not advertising. That's product sampling at national scale,"
 
-**Image Prompt:** Modern Doodle Comic style. a round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie beside a chalkboard where "ADVERTISING" is crossed out and replaced with "SAMPLING" nods knowingly with chalk in hand. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: clever. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
+**Image Prompt:** Modern Doodle Comic style. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie beside a chalkboard where "ADVERTISING" is crossed out and replaced with "SAMPLING" nods knowingly with chalk in hand. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: clever. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
 
 - **Camera Angle:** eye-level medium shot
 - **Lighting:** neutral even daylight with flat illustrative shading
@@ -414,7 +414,7 @@ Total beats: 209 (each ≤13 words ≈ ≤4.7s at 2.75 WPS)
 ## Beat 42
 **[Script Segment]** "And here's the clever bit."
 
-**Image Prompt:** Modern Doodle Comic style. a round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie next to a sign reading "THE CLEVER BIT" taps his temple with a finger. Camera: close-up. Lighting: neutral even daylight with flat illustrative shading. Mood: clever. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
+**Image Prompt:** Modern Doodle Comic style. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie next to a sign reading "THE CLEVER BIT" taps his temple with a finger. Camera: close-up. Lighting: neutral even daylight with flat illustrative shading. Mood: clever. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
 
 - **Camera Angle:** close-up
 - **Lighting:** neutral even daylight with flat illustrative shading
@@ -534,7 +534,7 @@ Total beats: 209 (each ≤13 words ≈ ≤4.7s at 2.75 WPS)
 ## Beat 54
 **[Script Segment]** "Keep that in mind,"
 
-**Image Prompt:** Modern Doodle Comic style. a round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie tying a red string around his finger winks at the viewer. Camera: close-up. Lighting: neutral even daylight with flat illustrative shading. Mood: memorable. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
+**Image Prompt:** Modern Doodle Comic style. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie tying a red string around his finger winks at the viewer. Camera: close-up. Lighting: neutral even daylight with flat illustrative shading. Mood: memorable. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
 
 - **Camera Angle:** close-up
 - **Lighting:** neutral even daylight with flat illustrative shading
@@ -794,7 +794,7 @@ Total beats: 209 (each ≤13 words ≈ ≤4.7s at 2.75 WPS)
 ## Beat 80
 **[Script Segment]** "Lesson: when you build an empire on partners, the contract is the empire."
 
-**Image Prompt:** Modern Doodle Comic style. a round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie next to a chalkboard reading "THE CONTRACT IS THE EMPIRE" holds up a scroll like a crown. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: wise. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
+**Image Prompt:** Modern Doodle Comic style. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie next to a chalkboard reading "THE CONTRACT IS THE EMPIRE" holds up a scroll like a crown. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: wise. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
 
 - **Camera Angle:** eye-level medium shot
 - **Lighting:** neutral even daylight with flat illustrative shading
@@ -804,7 +804,7 @@ Total beats: 209 (each ≤13 words ≈ ≤4.7s at 2.75 WPS)
 ## Beat 81
 **[Script Segment]** "Think about what that means."
 
-**Image Prompt:** Modern Doodle Comic style. a round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie with his hand on his chin stares thoughtfully at a floating question mark. Camera: close-up. Lighting: neutral even daylight with flat illustrative shading. Mood: thoughtful. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
+**Image Prompt:** Modern Doodle Comic style. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie with his hand on his chin stares thoughtfully at a floating question mark. Camera: close-up. Lighting: neutral even daylight with flat illustrative shading. Mood: thoughtful. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
 
 - **Camera Angle:** close-up
 - **Lighting:** neutral even daylight with flat illustrative shading
@@ -934,7 +934,7 @@ Total beats: 209 (each ≤13 words ≈ ≤4.7s at 2.75 WPS)
 ## Beat 94
 **[Script Segment]** "If you love seeing how giants actually grow, subscribe to [Your Channel Name]."
 
-**Image Prompt:** Modern Doodle Comic style. a round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie beside a giant red "SUBSCRIBE" button with a bell icon points at the button with a wink as sparkles pop. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: friendly. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
+**Image Prompt:** Modern Doodle Comic style. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie beside a giant red "SUBSCRIBE" button with a bell icon points at the button with a wink as sparkles pop. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: friendly. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
 
 - **Camera Angle:** eye-level medium shot
 - **Lighting:** neutral even daylight with flat illustrative shading
@@ -944,7 +944,7 @@ Total beats: 209 (each ≤13 words ≈ ≤4.7s at 2.75 WPS)
 ## Beat 95
 **[Script Segment]** "A new empire every week."
 
-**Image Prompt:** Modern Doodle Comic style. a round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie next to a giant wall calendar with seven days places a tiny company building icon on each day. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: energetic. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
+**Image Prompt:** Modern Doodle Comic style. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie next to a giant wall calendar with seven days places a tiny company building icon on each day. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: energetic. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
 
 - **Camera Angle:** eye-level medium shot
 - **Lighting:** neutral even daylight with flat illustrative shading
@@ -1174,7 +1174,7 @@ Total beats: 209 (each ≤13 words ≈ ≤4.7s at 2.75 WPS)
 ## Beat 118
 **[Script Segment]** "And here's a wild detail. The price."
 
-**Image Prompt:** Modern Doodle Comic style. a round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie holding a giant nickel coin raises his eyebrows at the viewer. Camera: close-up. Lighting: neutral even daylight with flat illustrative shading. Mood: intriguing. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
+**Image Prompt:** Modern Doodle Comic style. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie holding a giant nickel coin raises his eyebrows at the viewer. Camera: close-up. Lighting: neutral even daylight with flat illustrative shading. Mood: intriguing. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
 
 - **Camera Angle:** close-up
 - **Lighting:** neutral even daylight with flat illustrative shading
@@ -1244,7 +1244,7 @@ Total beats: 209 (each ≤13 words ≈ ≤4.7s at 2.75 WPS)
 ## Beat 125
 **[Script Segment]** "That didn't happen. But a soda company trying to change the country's coins?"
 
-**Image Prompt:** Modern Doodle Comic style. a round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie next to a giant coin with a red X over it shrugs with a grin. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: comedic. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
+**Image Prompt:** Modern Doodle Comic style. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie next to a giant coin with a red X over it shrugs with a grin. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: comedic. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
 
 - **Camera Angle:** eye-level medium shot
 - **Lighting:** neutral even daylight with flat illustrative shading
@@ -1574,7 +1574,7 @@ Total beats: 209 (each ≤13 words ≈ ≤4.7s at 2.75 WPS)
 ## Beat 158
 **[Script Segment]** "Lesson learned. Coke had spent a century building a habit."
 
-**Image Prompt:** Modern Doodle Comic style. a round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie next to a chalkboard reading "100 YEARS OF HABIT" nods with arms crossed. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: wise. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
+**Image Prompt:** Modern Doodle Comic style. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie next to a chalkboard reading "100 YEARS OF HABIT" nods with arms crossed. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: wise. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
 
 - **Camera Angle:** eye-level medium shot
 - **Lighting:** neutral even daylight with flat illustrative shading
@@ -1774,7 +1774,7 @@ Total beats: 209 (each ≤13 words ≈ ≤4.7s at 2.75 WPS)
 ## Beat 178
 **[Script Segment]** "Which answers the question from the very beginning."
 
-**Image Prompt:** Modern Doodle Comic style. a round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie pointing back to an earlier frame of the Kenyan kiosk raises an eyebrow knowingly. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: full circle. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
+**Image Prompt:** Modern Doodle Comic style. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie pointing back to an earlier frame of the Kenyan kiosk raises an eyebrow knowingly. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: full circle. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
 
 - **Camera Angle:** eye-level medium shot
 - **Lighting:** neutral even daylight with flat illustrative shading
@@ -1804,7 +1804,7 @@ Total beats: 209 (each ≤13 words ≈ ≤4.7s at 2.75 WPS)
 ## Beat 181
 **[Script Segment]** "The marketing kept evolving too."
 
-**Image Prompt:** Modern Doodle Comic style. a round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie next to a laptop showing a modern ad campaign clicks excitedly. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: modern. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
+**Image Prompt:** Modern Doodle Comic style. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie next to a laptop showing a modern ad campaign clicks excitedly. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: modern. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
 
 - **Camera Angle:** eye-level medium shot
 - **Lighting:** neutral even daylight with flat illustrative shading
@@ -1954,7 +1954,7 @@ Total beats: 209 (each ≤13 words ≈ ≤4.7s at 2.75 WPS)
 ## Beat 196
 **[Script Segment]** "So think about how Coke really won."
 
-**Image Prompt:** Modern Doodle Comic style. a round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie in front of a recap board with pinned photos and red string taps the board with a pointer. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: recap. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
+**Image Prompt:** Modern Doodle Comic style. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie in front of a recap board with pinned photos and red string taps the board with a pointer. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: recap. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
 
 - **Camera Angle:** eye-level medium shot
 - **Lighting:** neutral even daylight with flat illustrative shading
@@ -2064,7 +2064,7 @@ Total beats: 209 (each ≤13 words ≈ ≤4.7s at 2.75 WPS)
 ## Beat 207
 **[Script Segment]** "So tell me, Coke or Pepsi, and why?"
 
-**Image Prompt:** Modern Doodle Comic style. a round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie holding a red soda can in one hand and a blue soda can in the other looks at the viewer with an eyebrow raised. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: engaging. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
+**Image Prompt:** Modern Doodle Comic style. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie holding a red soda can in one hand and a blue soda can in the other looks at the viewer with an eyebrow raised. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: engaging. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
 
 - **Camera Angle:** eye-level medium shot
 - **Lighting:** neutral even daylight with flat illustrative shading
@@ -2074,7 +2074,7 @@ Total beats: 209 (each ≤13 words ≈ ≤4.7s at 2.75 WPS)
 ## Beat 208
 **[Script Segment]** "Defend your answer in the comments."
 
-**Image Prompt:** Modern Doodle Comic style. a round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie beside a giant comment speech-bubble icon types on a giant keyboard. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: interactive. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
+**Image Prompt:** Modern Doodle Comic style. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie beside a giant comment speech-bubble icon types on a giant keyboard. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: interactive. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
 
 - **Camera Angle:** eye-level medium shot
 - **Lighting:** neutral even daylight with flat illustrative shading
@@ -2084,7 +2084,7 @@ Total beats: 209 (each ≤13 words ≈ ≤4.7s at 2.75 WPS)
 ## Beat 209
 **[Script Segment]** "And your next empire story is already waiting for you right there."
 
-**Image Prompt:** Modern Doodle Comic style. a round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie holding open a door. Waves goodbye as the doorway reveals a glowing screen with the next video. Camera: eye-level medium shot. Lighting: warm glow from the doorway. Mood: inviting. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
+**Image Prompt:** Modern Doodle Comic style. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie holding open a door. Waves goodbye as the doorway reveals a glowing screen with the next video. Camera: eye-level medium shot. Lighting: warm glow from the doorway. Mood: inviting. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
 
 - **Camera Angle:** eye-level medium shot
 - **Lighting:** warm glow from the doorway
