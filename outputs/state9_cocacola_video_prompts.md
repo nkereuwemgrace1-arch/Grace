@@ -843,158 +843,158 @@ Total runtime from clips: 727s (~12:07)
 - **Transition Out:** soft cross-dissolve into the next beat
 
 ## Clip 71
-**[Script Segment]** "But there was a catch buried in that contract."
-
-**Duration:** 3.3s
-
-**Video Prompt:** 3.3-second animated clip in Vintage Storybook Comic style, using Image Prompt 71 as the start frame. An old contract on a desk with a magnifying glass revealing tiny print reading "FIXED PRICE". A red warning sign pops up, animated smoothly from start to finish within the clip. Camera movement: slow push-in that tightens on the subject. Background motion: subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally. Lighting: warm golden ambient light with soft even illustrative shading, consistent throughout. Mood and pacing: suspense, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
-
-- **Camera Movement:** slow push-in that tightens on the subject
-- **Subject Motion:** a red warning sign pops up
-- **Background Motion:** subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally
-- **Transition Out:** soft cross-dissolve into the next beat
-
-## Clip 72
-**[Script Segment]** "The original deal locked in the syrup price forever. Forever!"
-
-**Duration:** 3.6s
-
-**Video Prompt:** 3.6-second animated clip in Vintage Storybook Comic style, using Image Prompt 72 as the start frame. A contract stamped with a huge red stamp reading "FOREVER". An alarm clock shatters beside it, animated smoothly from start to finish within the clip. Camera movement: slow push-in that tightens on the subject. Background motion: subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally. Lighting: warm golden ambient light with soft even illustrative shading, consistent throughout. Mood and pacing: dramatic, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
-
-- **Camera Movement:** slow push-in that tightens on the subject
-- **Subject Motion:** an alarm clock shatters beside it
-- **Background Motion:** subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally
-- **Transition Out:** soft cross-dissolve into the next beat
-
-## Clip 73
-**[Script Segment]** "When sugar prices exploded after World War One,"
-
-**Duration:** 2.9s
-
-**Video Prompt:** 2.9-second animated clip in Vintage Storybook Comic style, using Image Prompt 73 as the start frame. A 1920 grocery shelf where a price tag on a sugar sack rockets upward with an arrow. Shoppers gasp, animated smoothly from start to finish within the clip. Camera movement: gentle handheld-free drift and slight push-in on the subject. Background motion: subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally. Lighting: warm golden ambient light with soft even illustrative shading, consistent throughout. Mood and pacing: shock, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
-
-- **Camera Movement:** gentle handheld-free drift and slight push-in on the subject
-- **Subject Motion:** shoppers gasp
-- **Background Motion:** subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally
-- **Transition Out:** soft cross-dissolve into the next beat
-
-## Clip 74
-**[Script Segment]** "Coca-Cola was stuck selling syrup at a loss"
-
-**Duration:** 2.9s
-
-**Video Prompt:** 2.9-second animated clip in Vintage Storybook Comic style, using Image Prompt 74 as the start frame. A 1920 Atlanta office, a sweating executive sells syrup jugs with money flying out of his own pockets, animated smoothly from start to finish within the clip. Camera movement: gentle handheld-free drift and slight push-in on the subject. Background motion: subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally. Lighting: warm golden ambient light with soft even illustrative shading, consistent throughout. Mood and pacing: losing, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
-
-- **Camera Movement:** gentle handheld-free drift and slight push-in on the subject
-- **Subject Motion:** sells syrup jugs with money flying out of his own pockets
-- **Background Motion:** subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally
-- **Transition Out:** soft cross-dissolve into the next beat
-
-## Clip 75
-**[Script Segment]** "to the very people getting rich off it."
-
-**Duration:** 2.9s
-
-**Video Prompt:** 2.9-second animated clip in Vintage Storybook Comic style, using Image Prompt 75 as the start frame. A group of cheerful bottlers in fancy suits count piles of money and laugh, animated smoothly from start to finish within the clip. Camera movement: gentle handheld-free drift and slight push-in on the subject. Background motion: subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally. Lighting: warm golden ambient light with soft even illustrative shading, consistent throughout. Mood and pacing: ironic, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
-
-- **Camera Movement:** gentle handheld-free drift and slight push-in on the subject
-- **Subject Motion:** count piles of money and laugh
-- **Background Motion:** subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally
-- **Transition Out:** soft cross-dissolve into the next beat
-
-## Clip 76
-**[Script Segment]** "So around 1920, a massive fight broke out between the company and its bottlers,"
-
-**Duration:** 5.1s
-
-**Video Prompt:** 5.1-second animated clip in Vintage Storybook Comic style, using Image Prompt 76 as the start frame. A 1920 office where company executives and bottlers tug on opposite ends of a giant contract like tug-of-war, animated smoothly from start to finish within the clip. Camera movement: slow lateral pan with a gentle push-in that settles on the main subject. Background motion: subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally. Lighting: warm golden ambient light with soft even illustrative shading, consistent throughout. Mood and pacing: conflict, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
-
-- **Camera Movement:** slow lateral pan with a gentle push-in that settles on the main subject
-- **Subject Motion:** tug on opposite ends of a giant contract like tug-of-war
-- **Background Motion:** subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally
-- **Transition Out:** soft cross-dissolve into the next beat
-
-## Clip 77
-**[Script Segment]** "and it ended up in court. Eventually,"
-
-**Duration:** 2.5s
-
-**Video Prompt:** 2.5-second animated clip in Vintage Storybook Comic style, using Image Prompt 77 as the start frame. A 1920s courtroom with a judge and two groups of men in suits argue across a table stacked with papers, animated smoothly from start to finish within the clip. Camera movement: slow lateral pan with a gentle push-in that settles on the main subject. Background motion: subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally. Lighting: warm golden ambient light with soft even illustrative shading, consistent throughout. Mood and pacing: tense, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
-
-- **Camera Movement:** slow lateral pan with a gentle push-in that settles on the main subject
-- **Subject Motion:** argue across a table stacked with papers
-- **Background Motion:** subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally
-- **Transition Out:** soft cross-dissolve into the next beat
-
-## Clip 78
-**[Script Segment]** "they agreed on a new system where the"
-
-**Duration:** 2.9s
-
-**Video Prompt:** 2.9-second animated clip in Vintage Storybook Comic style, using Image Prompt 78 as the start frame. A 1920s office with men shaking hands across a table sign a new contract together, animated smoothly from start to finish within the clip. Camera movement: gentle handheld-free drift and slight push-in on the subject. Background motion: subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally. Lighting: warm golden ambient light with soft even illustrative shading, consistent throughout. Mood and pacing: resolution, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
-
-- **Camera Movement:** gentle handheld-free drift and slight push-in on the subject
-- **Subject Motion:** sign a new contract together
-- **Background Motion:** subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally
-- **Transition Out:** soft cross-dissolve into the next beat
-
-## Clip 79
-**[Script Segment]** "syrup price could move with the cost of sugar."
-
-**Duration:** 3.3s
-
-**Video Prompt:** 3.3-second animated clip in Vintage Storybook Comic style, using Image Prompt 79 as the start frame. A contract with a sliding scale gauge showing syrup price tied to a sugar sack. The gauge needle moves smoothly, animated smoothly from start to finish within the clip. Camera movement: slow push-in that tightens on the subject. Background motion: subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally. Lighting: warm golden ambient light with soft even illustrative shading, consistent throughout. Mood and pacing: fair, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
-
-- **Camera Movement:** slow push-in that tightens on the subject
-- **Subject Motion:** the gauge needle moves smoothly
-- **Background Motion:** subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally
-- **Transition Out:** soft cross-dissolve into the next beat
-
-## Clip 80
-**[Script Segment]** "Lesson: when you build an empire on partners, the contract is the empire."
-
-**Duration:** 4.7s
-
-**Video Prompt:** 4.7-second animated clip in Modern Doodle Comic style, using Image Prompt 80 as the start frame. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie next to a chalkboard reading "THE CONTRACT IS THE EMPIRE" holds up a scroll like a crown, animated smoothly from start to finish within the clip. Camera movement: gentle handheld-free drift and slight push-in on the subject. Background motion: bouncy cartoon timing with squash-and-stretch, labels and icons popping in with a small scale bounce, sparkles twinkling, background props wiggling slightly. Lighting: neutral even daylight with flat illustrative shading, consistent throughout. Mood and pacing: wise, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
-
-- **Camera Movement:** gentle handheld-free drift and slight push-in on the subject
-- **Subject Motion:** holds up a scroll like a crown
-- **Background Motion:** bouncy cartoon timing with squash-and-stretch, labels and icons popping in with a small scale bounce, sparkles twinkling, background props wiggling slightly
-- **Transition Out:** quick whip-pan or pop cut into the next beat
-
-## Clip 81
 **[Script Segment]** "Think about what that means."
 
 **Duration:** 2.0s
 
-**Video Prompt:** 2.0-second animated clip in Modern Doodle Comic style, using Image Prompt 81 as the start frame. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie with his hand on his chin stares thoughtfully at a floating question mark, animated smoothly from start to finish within the clip. Camera movement: slow push-in that tightens on the subject. Background motion: bouncy cartoon timing with squash-and-stretch, labels and icons popping in with a small scale bounce, sparkles twinkling, background props wiggling slightly. Lighting: neutral even daylight with flat illustrative shading, consistent throughout. Mood and pacing: thoughtful, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
+**Video Prompt:** 2.0-second animated clip in Modern Doodle Comic style, using Image Prompt 71 as the start frame. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie with his hand on his chin stares thoughtfully at a floating question mark, animated smoothly from start to finish within the clip. Camera movement: slow push-in that tightens on the subject. Background motion: bouncy cartoon timing with squash-and-stretch, labels and icons popping in with a small scale bounce, sparkles twinkling, background props wiggling slightly. Lighting: neutral even daylight with flat illustrative shading, consistent throughout. Mood and pacing: thoughtful, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
 
 - **Camera Movement:** slow push-in that tightens on the subject
 - **Subject Motion:** stares thoughtfully at a floating question mark
 - **Background Motion:** bouncy cartoon timing with squash-and-stretch, labels and icons popping in with a small scale bounce, sparkles twinkling, background props wiggling slightly
 - **Transition Out:** quick whip-pan or pop cut into the next beat
 
-## Clip 82
+## Clip 72
 **[Script Segment]** "Coca-Cola spread across an entire continent mostly using other people's money."
 
 **Duration:** 4.0s
 
-**Video Prompt:** 4.0-second animated clip in Vintage Storybook Comic style, using Image Prompt 82 as the start frame. A vintage US map where hundreds of hands from small towns build tiny factories while dollar bills flow from their pockets, animated smoothly from start to finish within the clip. Camera movement: slow overhead drift across the frame from left to right. Background motion: subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally. Lighting: warm golden ambient light with soft even illustrative shading, consistent throughout. Mood and pacing: clever, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
+**Video Prompt:** 4.0-second animated clip in Vintage Storybook Comic style, using Image Prompt 72 as the start frame. A vintage US map where hundreds of hands from small towns build tiny factories while dollar bills flow from their pockets, animated smoothly from start to finish within the clip. Camera movement: slow overhead drift across the frame from left to right. Background motion: subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally. Lighting: warm golden ambient light with soft even illustrative shading, consistent throughout. Mood and pacing: clever, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
 
 - **Camera Movement:** slow overhead drift across the frame from left to right
 - **Subject Motion:** build tiny factories while dollar bills flow from their pockets
 - **Background Motion:** subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally
 - **Transition Out:** soft cross-dissolve into the next beat
 
-## Clip 83
+## Clip 73
 **[Script Segment]** "Today we'd call that franchising. Back then, it was basically an accident."
 
 **Duration:** 4.4s
 
-**Video Prompt:** 4.4-second animated clip in Modern Doodle Comic style, using Image Prompt 83 as the start frame. A sign reading "FRANCHISING" with an older crossed-out sign reading "ACCIDENT" beside it. A small banana peel lies on the ground below, animated smoothly from start to finish within the clip. Camera movement: gentle handheld-free drift and slight push-in on the subject. Background motion: bouncy cartoon timing with squash-and-stretch, labels and icons popping in with a small scale bounce, sparkles twinkling, background props wiggling slightly. Lighting: neutral even daylight with flat illustrative shading, consistent throughout. Mood and pacing: comedic, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
+**Video Prompt:** 4.4-second animated clip in Modern Doodle Comic style, using Image Prompt 73 as the start frame. A sign reading "FRANCHISING" with an older crossed-out sign reading "ACCIDENT" beside it. A small banana peel lies on the ground below, animated smoothly from start to finish within the clip. Camera movement: gentle handheld-free drift and slight push-in on the subject. Background motion: bouncy cartoon timing with squash-and-stretch, labels and icons popping in with a small scale bounce, sparkles twinkling, background props wiggling slightly. Lighting: neutral even daylight with flat illustrative shading, consistent throughout. Mood and pacing: comedic, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
 
 - **Camera Movement:** gentle handheld-free drift and slight push-in on the subject
 - **Subject Motion:** a small banana peel lies on the ground below
+- **Background Motion:** bouncy cartoon timing with squash-and-stretch, labels and icons popping in with a small scale bounce, sparkles twinkling, background props wiggling slightly
+- **Transition Out:** quick whip-pan or pop cut into the next beat
+
+## Clip 74
+**[Script Segment]** "But there was a catch buried in that contract."
+
+**Duration:** 3.3s
+
+**Video Prompt:** 3.3-second animated clip in Vintage Storybook Comic style, using Image Prompt 74 as the start frame. An old contract on a desk with a magnifying glass revealing tiny print reading "FIXED PRICE". A red warning sign pops up, animated smoothly from start to finish within the clip. Camera movement: slow push-in that tightens on the subject. Background motion: subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally. Lighting: warm golden ambient light with soft even illustrative shading, consistent throughout. Mood and pacing: suspense, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
+
+- **Camera Movement:** slow push-in that tightens on the subject
+- **Subject Motion:** a red warning sign pops up
+- **Background Motion:** subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally
+- **Transition Out:** soft cross-dissolve into the next beat
+
+## Clip 75
+**[Script Segment]** "The original deal locked in the syrup price forever. Forever!"
+
+**Duration:** 3.6s
+
+**Video Prompt:** 3.6-second animated clip in Vintage Storybook Comic style, using Image Prompt 75 as the start frame. A contract stamped with a huge red stamp reading "FOREVER". An alarm clock shatters beside it, animated smoothly from start to finish within the clip. Camera movement: slow push-in that tightens on the subject. Background motion: subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally. Lighting: warm golden ambient light with soft even illustrative shading, consistent throughout. Mood and pacing: dramatic, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
+
+- **Camera Movement:** slow push-in that tightens on the subject
+- **Subject Motion:** an alarm clock shatters beside it
+- **Background Motion:** subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally
+- **Transition Out:** soft cross-dissolve into the next beat
+
+## Clip 76
+**[Script Segment]** "When sugar prices exploded after World War One,"
+
+**Duration:** 2.9s
+
+**Video Prompt:** 2.9-second animated clip in Vintage Storybook Comic style, using Image Prompt 76 as the start frame. A 1920 grocery shelf where a price tag on a sugar sack rockets upward with an arrow. Shoppers gasp, animated smoothly from start to finish within the clip. Camera movement: gentle handheld-free drift and slight push-in on the subject. Background motion: subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally. Lighting: warm golden ambient light with soft even illustrative shading, consistent throughout. Mood and pacing: shock, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
+
+- **Camera Movement:** gentle handheld-free drift and slight push-in on the subject
+- **Subject Motion:** shoppers gasp
+- **Background Motion:** subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally
+- **Transition Out:** soft cross-dissolve into the next beat
+
+## Clip 77
+**[Script Segment]** "Coca-Cola was stuck selling syrup at a loss"
+
+**Duration:** 2.9s
+
+**Video Prompt:** 2.9-second animated clip in Vintage Storybook Comic style, using Image Prompt 77 as the start frame. A 1920 Atlanta office, a sweating executive sells syrup jugs with money flying out of his own pockets, animated smoothly from start to finish within the clip. Camera movement: gentle handheld-free drift and slight push-in on the subject. Background motion: subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally. Lighting: warm golden ambient light with soft even illustrative shading, consistent throughout. Mood and pacing: losing, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
+
+- **Camera Movement:** gentle handheld-free drift and slight push-in on the subject
+- **Subject Motion:** sells syrup jugs with money flying out of his own pockets
+- **Background Motion:** subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally
+- **Transition Out:** soft cross-dissolve into the next beat
+
+## Clip 78
+**[Script Segment]** "to the very people getting rich off it."
+
+**Duration:** 2.9s
+
+**Video Prompt:** 2.9-second animated clip in Vintage Storybook Comic style, using Image Prompt 78 as the start frame. A group of cheerful bottlers in fancy suits count piles of money and laugh, animated smoothly from start to finish within the clip. Camera movement: gentle handheld-free drift and slight push-in on the subject. Background motion: subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally. Lighting: warm golden ambient light with soft even illustrative shading, consistent throughout. Mood and pacing: ironic, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
+
+- **Camera Movement:** gentle handheld-free drift and slight push-in on the subject
+- **Subject Motion:** count piles of money and laugh
+- **Background Motion:** subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally
+- **Transition Out:** soft cross-dissolve into the next beat
+
+## Clip 79
+**[Script Segment]** "So around 1920, a massive fight broke out between the company and its bottlers,"
+
+**Duration:** 5.1s
+
+**Video Prompt:** 5.1-second animated clip in Vintage Storybook Comic style, using Image Prompt 79 as the start frame. A 1920 office where company executives and bottlers tug on opposite ends of a giant contract like tug-of-war, animated smoothly from start to finish within the clip. Camera movement: slow lateral pan with a gentle push-in that settles on the main subject. Background motion: subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally. Lighting: warm golden ambient light with soft even illustrative shading, consistent throughout. Mood and pacing: conflict, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
+
+- **Camera Movement:** slow lateral pan with a gentle push-in that settles on the main subject
+- **Subject Motion:** tug on opposite ends of a giant contract like tug-of-war
+- **Background Motion:** subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally
+- **Transition Out:** soft cross-dissolve into the next beat
+
+## Clip 80
+**[Script Segment]** "and it ended up in court. Eventually,"
+
+**Duration:** 2.5s
+
+**Video Prompt:** 2.5-second animated clip in Vintage Storybook Comic style, using Image Prompt 80 as the start frame. A 1920s courtroom with a judge and two groups of men in suits argue across a table stacked with papers, animated smoothly from start to finish within the clip. Camera movement: slow lateral pan with a gentle push-in that settles on the main subject. Background motion: subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally. Lighting: warm golden ambient light with soft even illustrative shading, consistent throughout. Mood and pacing: tense, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
+
+- **Camera Movement:** slow lateral pan with a gentle push-in that settles on the main subject
+- **Subject Motion:** argue across a table stacked with papers
+- **Background Motion:** subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally
+- **Transition Out:** soft cross-dissolve into the next beat
+
+## Clip 81
+**[Script Segment]** "they agreed on a new system where the"
+
+**Duration:** 2.9s
+
+**Video Prompt:** 2.9-second animated clip in Vintage Storybook Comic style, using Image Prompt 81 as the start frame. A 1920s office with men shaking hands across a table sign a new contract together, animated smoothly from start to finish within the clip. Camera movement: gentle handheld-free drift and slight push-in on the subject. Background motion: subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally. Lighting: warm golden ambient light with soft even illustrative shading, consistent throughout. Mood and pacing: resolution, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
+
+- **Camera Movement:** gentle handheld-free drift and slight push-in on the subject
+- **Subject Motion:** sign a new contract together
+- **Background Motion:** subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally
+- **Transition Out:** soft cross-dissolve into the next beat
+
+## Clip 82
+**[Script Segment]** "syrup price could move with the cost of sugar."
+
+**Duration:** 3.3s
+
+**Video Prompt:** 3.3-second animated clip in Vintage Storybook Comic style, using Image Prompt 82 as the start frame. A contract with a sliding scale gauge showing syrup price tied to a sugar sack. The gauge needle moves smoothly, animated smoothly from start to finish within the clip. Camera movement: slow push-in that tightens on the subject. Background motion: subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally. Lighting: warm golden ambient light with soft even illustrative shading, consistent throughout. Mood and pacing: fair, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
+
+- **Camera Movement:** slow push-in that tightens on the subject
+- **Subject Motion:** the gauge needle moves smoothly
+- **Background Motion:** subtle ambient life: drifting dust motes, flickering lamp light, cloth and hair swaying slightly, background figures moving naturally
+- **Transition Out:** soft cross-dissolve into the next beat
+
+## Clip 83
+**[Script Segment]** "Lesson: when you build an empire on partners, the contract is the empire."
+
+**Duration:** 4.7s
+
+**Video Prompt:** 4.7-second animated clip in Modern Doodle Comic style, using Image Prompt 83 as the start frame. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie next to a chalkboard reading "THE CONTRACT IS THE EMPIRE" holds up a scroll like a crown, animated smoothly from start to finish within the clip. Camera movement: gentle handheld-free drift and slight push-in on the subject. Background motion: bouncy cartoon timing with squash-and-stretch, labels and icons popping in with a small scale bounce, sparkles twinkling, background props wiggling slightly. Lighting: neutral even daylight with flat illustrative shading, consistent throughout. Mood and pacing: wise, timed to the narration. Keep character designs, outlines and colors identical to the start frame; no morphing faces, no extra limbs, no warped hand-lettered text, no photorealism. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
+
+- **Camera Movement:** gentle handheld-free drift and slight push-in on the subject
+- **Subject Motion:** holds up a scroll like a crown
 - **Background Motion:** bouncy cartoon timing with squash-and-stretch, labels and icons popping in with a small scale bounce, sparkles twinkling, background props wiggling slightly
 - **Transition Out:** quick whip-pan or pop cut into the next beat
 

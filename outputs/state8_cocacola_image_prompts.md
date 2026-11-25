@@ -702,106 +702,6 @@ Total beats: 209 (each ≤13 words ≈ ≤4.7s at 2.75 WPS)
 - **Action:** smoke puffs rise from every factory
 
 ## Beat 71
-**[Script Segment]** "But there was a catch buried in that contract."
-
-**Image Prompt:** Vintage Storybook Comic style. An old contract on a desk with a magnifying glass revealing tiny print reading "FIXED PRICE". A red warning sign pops up. Camera: close-up. Lighting: warm golden ambient light with soft even illustrative shading. Mood: suspense. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
-
-- **Camera Angle:** close-up
-- **Lighting:** warm golden ambient light with soft even illustrative shading
-- **Mood:** suspense
-- **Action:** a red warning sign pops up
-
-## Beat 72
-**[Script Segment]** "The original deal locked in the syrup price forever. Forever!"
-
-**Image Prompt:** Vintage Storybook Comic style. A contract stamped with a huge red stamp reading "FOREVER". An alarm clock shatters beside it. Camera: close-up. Lighting: warm golden ambient light with soft even illustrative shading. Mood: dramatic. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
-
-- **Camera Angle:** close-up
-- **Lighting:** warm golden ambient light with soft even illustrative shading
-- **Mood:** dramatic
-- **Action:** an alarm clock shatters beside it
-
-## Beat 73
-**[Script Segment]** "When sugar prices exploded after World War One,"
-
-**Image Prompt:** Vintage Storybook Comic style. A 1920 grocery shelf where a price tag on a sugar sack rockets upward with an arrow. Shoppers gasp. Camera: eye-level medium shot. Lighting: warm golden ambient light with soft even illustrative shading. Mood: shock. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
-
-- **Camera Angle:** eye-level medium shot
-- **Lighting:** warm golden ambient light with soft even illustrative shading
-- **Mood:** shock
-- **Action:** shoppers gasp
-
-## Beat 74
-**[Script Segment]** "Coca-Cola was stuck selling syrup at a loss"
-
-**Image Prompt:** Vintage Storybook Comic style. A 1920 Atlanta office, a sweating executive sells syrup jugs with money flying out of his own pockets. Camera: eye-level medium shot. Lighting: warm golden ambient light with soft even illustrative shading. Mood: losing. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
-
-- **Camera Angle:** eye-level medium shot
-- **Lighting:** warm golden ambient light with soft even illustrative shading
-- **Mood:** losing
-- **Action:** sells syrup jugs with money flying out of his own pockets
-
-## Beat 75
-**[Script Segment]** "to the very people getting rich off it."
-
-**Image Prompt:** Vintage Storybook Comic style. A group of cheerful bottlers in fancy suits count piles of money and laugh. Camera: eye-level medium shot. Lighting: warm golden ambient light with soft even illustrative shading. Mood: ironic. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
-
-- **Camera Angle:** eye-level medium shot
-- **Lighting:** warm golden ambient light with soft even illustrative shading
-- **Mood:** ironic
-- **Action:** count piles of money and laugh
-
-## Beat 76
-**[Script Segment]** "So around 1920, a massive fight broke out between the company and its bottlers,"
-
-**Image Prompt:** Vintage Storybook Comic style. A 1920 office where company executives and bottlers tug on opposite ends of a giant contract like tug-of-war. Camera: eye-level wide shot. Lighting: warm golden ambient light with soft even illustrative shading. Mood: conflict. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
-
-- **Camera Angle:** eye-level wide shot
-- **Lighting:** warm golden ambient light with soft even illustrative shading
-- **Mood:** conflict
-- **Action:** tug on opposite ends of a giant contract like tug-of-war
-
-## Beat 77
-**[Script Segment]** "and it ended up in court. Eventually,"
-
-**Image Prompt:** Vintage Storybook Comic style. A 1920s courtroom with a judge and two groups of men in suits argue across a table stacked with papers. Camera: eye-level wide shot. Lighting: warm golden ambient light with soft even illustrative shading. Mood: tense. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
-
-- **Camera Angle:** eye-level wide shot
-- **Lighting:** warm golden ambient light with soft even illustrative shading
-- **Mood:** tense
-- **Action:** argue across a table stacked with papers
-
-## Beat 78
-**[Script Segment]** "they agreed on a new system where the"
-
-**Image Prompt:** Vintage Storybook Comic style. A 1920s office with men shaking hands across a table sign a new contract together. Camera: eye-level medium shot. Lighting: warm golden ambient light with soft even illustrative shading. Mood: resolution. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
-
-- **Camera Angle:** eye-level medium shot
-- **Lighting:** warm golden ambient light with soft even illustrative shading
-- **Mood:** resolution
-- **Action:** sign a new contract together
-
-## Beat 79
-**[Script Segment]** "syrup price could move with the cost of sugar."
-
-**Image Prompt:** Vintage Storybook Comic style. A contract with a sliding scale gauge showing syrup price tied to a sugar sack. The gauge needle moves smoothly. Camera: close-up. Lighting: warm golden ambient light with soft even illustrative shading. Mood: fair. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
-
-- **Camera Angle:** close-up
-- **Lighting:** warm golden ambient light with soft even illustrative shading
-- **Mood:** fair
-- **Action:** the gauge needle moves smoothly
-
-## Beat 80
-**[Script Segment]** "Lesson: when you build an empire on partners, the contract is the empire."
-
-**Image Prompt:** Modern Doodle Comic style. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie next to a chalkboard reading "THE CONTRACT IS THE EMPIRE" holds up a scroll like a crown. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: wise. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
-
-- **Camera Angle:** eye-level medium shot
-- **Lighting:** neutral even daylight with flat illustrative shading
-- **Mood:** wise
-- **Action:** holds up a scroll like a crown
-
-## Beat 81
 **[Script Segment]** "Think about what that means."
 
 **Image Prompt:** Modern Doodle Comic style. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie with his hand on his chin stares thoughtfully at a floating question mark. Camera: close-up. Lighting: neutral even daylight with flat illustrative shading. Mood: thoughtful. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
@@ -811,7 +711,7 @@ Total beats: 209 (each ≤13 words ≈ ≤4.7s at 2.75 WPS)
 - **Mood:** thoughtful
 - **Action:** stares thoughtfully at a floating question mark
 
-## Beat 82
+## Beat 72
 **[Script Segment]** "Coca-Cola spread across an entire continent mostly using other people's money."
 
 **Image Prompt:** Vintage Storybook Comic style. A vintage US map where hundreds of hands from small towns build tiny factories while dollar bills flow from their pockets. Camera: top-down wide shot. Lighting: warm golden ambient light with soft even illustrative shading. Mood: clever. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
@@ -821,7 +721,7 @@ Total beats: 209 (each ≤13 words ≈ ≤4.7s at 2.75 WPS)
 - **Mood:** clever
 - **Action:** build tiny factories while dollar bills flow from their pockets
 
-## Beat 83
+## Beat 73
 **[Script Segment]** "Today we'd call that franchising. Back then, it was basically an accident."
 
 **Image Prompt:** Modern Doodle Comic style. A sign reading "FRANCHISING" with an older crossed-out sign reading "ACCIDENT" beside it. A small banana peel lies on the ground below. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: comedic. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
@@ -830,6 +730,106 @@ Total beats: 209 (each ≤13 words ≈ ≤4.7s at 2.75 WPS)
 - **Lighting:** neutral even daylight with flat illustrative shading
 - **Mood:** comedic
 - **Action:** a small banana peel lies on the ground below
+
+## Beat 74
+**[Script Segment]** "But there was a catch buried in that contract."
+
+**Image Prompt:** Vintage Storybook Comic style. An old contract on a desk with a magnifying glass revealing tiny print reading "FIXED PRICE". A red warning sign pops up. Camera: close-up. Lighting: warm golden ambient light with soft even illustrative shading. Mood: suspense. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
+
+- **Camera Angle:** close-up
+- **Lighting:** warm golden ambient light with soft even illustrative shading
+- **Mood:** suspense
+- **Action:** a red warning sign pops up
+
+## Beat 75
+**[Script Segment]** "The original deal locked in the syrup price forever. Forever!"
+
+**Image Prompt:** Vintage Storybook Comic style. A contract stamped with a huge red stamp reading "FOREVER". An alarm clock shatters beside it. Camera: close-up. Lighting: warm golden ambient light with soft even illustrative shading. Mood: dramatic. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
+
+- **Camera Angle:** close-up
+- **Lighting:** warm golden ambient light with soft even illustrative shading
+- **Mood:** dramatic
+- **Action:** an alarm clock shatters beside it
+
+## Beat 76
+**[Script Segment]** "When sugar prices exploded after World War One,"
+
+**Image Prompt:** Vintage Storybook Comic style. A 1920 grocery shelf where a price tag on a sugar sack rockets upward with an arrow. Shoppers gasp. Camera: eye-level medium shot. Lighting: warm golden ambient light with soft even illustrative shading. Mood: shock. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
+
+- **Camera Angle:** eye-level medium shot
+- **Lighting:** warm golden ambient light with soft even illustrative shading
+- **Mood:** shock
+- **Action:** shoppers gasp
+
+## Beat 77
+**[Script Segment]** "Coca-Cola was stuck selling syrup at a loss"
+
+**Image Prompt:** Vintage Storybook Comic style. A 1920 Atlanta office, a sweating executive sells syrup jugs with money flying out of his own pockets. Camera: eye-level medium shot. Lighting: warm golden ambient light with soft even illustrative shading. Mood: losing. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
+
+- **Camera Angle:** eye-level medium shot
+- **Lighting:** warm golden ambient light with soft even illustrative shading
+- **Mood:** losing
+- **Action:** sells syrup jugs with money flying out of his own pockets
+
+## Beat 78
+**[Script Segment]** "to the very people getting rich off it."
+
+**Image Prompt:** Vintage Storybook Comic style. A group of cheerful bottlers in fancy suits count piles of money and laugh. Camera: eye-level medium shot. Lighting: warm golden ambient light with soft even illustrative shading. Mood: ironic. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
+
+- **Camera Angle:** eye-level medium shot
+- **Lighting:** warm golden ambient light with soft even illustrative shading
+- **Mood:** ironic
+- **Action:** count piles of money and laugh
+
+## Beat 79
+**[Script Segment]** "So around 1920, a massive fight broke out between the company and its bottlers,"
+
+**Image Prompt:** Vintage Storybook Comic style. A 1920 office where company executives and bottlers tug on opposite ends of a giant contract like tug-of-war. Camera: eye-level wide shot. Lighting: warm golden ambient light with soft even illustrative shading. Mood: conflict. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
+
+- **Camera Angle:** eye-level wide shot
+- **Lighting:** warm golden ambient light with soft even illustrative shading
+- **Mood:** conflict
+- **Action:** tug on opposite ends of a giant contract like tug-of-war
+
+## Beat 80
+**[Script Segment]** "and it ended up in court. Eventually,"
+
+**Image Prompt:** Vintage Storybook Comic style. A 1920s courtroom with a judge and two groups of men in suits argue across a table stacked with papers. Camera: eye-level wide shot. Lighting: warm golden ambient light with soft even illustrative shading. Mood: tense. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
+
+- **Camera Angle:** eye-level wide shot
+- **Lighting:** warm golden ambient light with soft even illustrative shading
+- **Mood:** tense
+- **Action:** argue across a table stacked with papers
+
+## Beat 81
+**[Script Segment]** "they agreed on a new system where the"
+
+**Image Prompt:** Vintage Storybook Comic style. A 1920s office with men shaking hands across a table sign a new contract together. Camera: eye-level medium shot. Lighting: warm golden ambient light with soft even illustrative shading. Mood: resolution. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
+
+- **Camera Angle:** eye-level medium shot
+- **Lighting:** warm golden ambient light with soft even illustrative shading
+- **Mood:** resolution
+- **Action:** sign a new contract together
+
+## Beat 82
+**[Script Segment]** "syrup price could move with the cost of sugar."
+
+**Image Prompt:** Vintage Storybook Comic style. A contract with a sliding scale gauge showing syrup price tied to a sugar sack. The gauge needle moves smoothly. Camera: close-up. Lighting: warm golden ambient light with soft even illustrative shading. Mood: fair. Style: hand-drawn 2D vintage storybook comic illustration, bold black ink outlines, flat cel coloring with soft light shading, warm sepia earthy palette of browns, cream, mustard, burgundy and olive with a single red accent, caricatured characters with rounded heads and simple dot eyes in period clothing, richly detailed period environment with hand-lettered signage, everything in sharp focus, no photorealism, 16:9.
+
+- **Camera Angle:** close-up
+- **Lighting:** warm golden ambient light with soft even illustrative shading
+- **Mood:** fair
+- **Action:** the gauge needle moves smoothly
+
+## Beat 83
+**[Script Segment]** "Lesson: when you build an empire on partners, the contract is the empire."
+
+**Image Prompt:** Modern Doodle Comic style. A round white-headed cartoon mascot man with a blank oval face, a smug half-smile and one raised eyebrow, thin limbs, charcoal suit and dark red tie next to a chalkboard reading "THE CONTRACT IS THE EMPIRE" holds up a scroll like a crown. Camera: eye-level medium shot. Lighting: neutral even daylight with flat illustrative shading. Mood: wise. Style: hand-drawn 2D modern doodle comic illustration, bold black ink outlines, flat bright colors on light off-white backgrounds, round white-headed cartoon characters with blank oval faces and expressive minimal features, hand-lettered labels on props, graphic overlays such as arrows, charts, red X marks and sparkles, everything in sharp focus, no photorealism, 16:9.
+
+- **Camera Angle:** eye-level medium shot
+- **Lighting:** neutral even daylight with flat illustrative shading
+- **Mood:** wise
+- **Action:** holds up a scroll like a crown
 
 ## Beat 84
 **[Script Segment]** "Of course, once you're everywhere, copycats show up. Koke. Coke-Ola. Toka-Cola."

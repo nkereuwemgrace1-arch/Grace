@@ -20,9 +20,9 @@ But there was still a ceiling. Fountains. No fountain nearby, no Coke. In 1894, 
 
 On paper, that sounds like the worst deal in business history. In reality, it built the entire machine. Thomas and Whitehead couldn't build plants everywhere, so they split the country into territories and handed them to local business owners. Those owners put up their own money, built their own plants, bought their own trucks, hired their own drivers. Coca-Cola just sold them the syrup. By 1919, there were more than a thousand bottling plants across America.
 
-But there was a catch buried in that contract. The original deal locked in the syrup price forever. Forever! When sugar prices exploded after World War One, Coca-Cola was stuck selling syrup at a loss to the very people getting rich off it. So around 1920, a massive fight broke out between the company and its bottlers, and it ended up in court. Eventually, they agreed on a new system where the syrup price could move with the cost of sugar. Lesson: when you build an empire on partners, the contract is the empire.
-
 Think about what that means. Coca-Cola spread across an entire continent mostly using other people's money. Today we'd call that franchising. Back then, it was basically an accident.
+
+But there was a catch buried in that contract. The original deal locked in the syrup price forever. Forever! When sugar prices exploded after World War One, Coca-Cola was stuck selling syrup at a loss to the very people getting rich off it. So around 1920, a massive fight broke out between the company and its bottlers, and it ended up in court. Eventually, they agreed on a new system where the syrup price could move with the cost of sugar. Lesson: when you build an empire on partners, the contract is the empire.
 
 Of course, once you're everywhere, copycats show up. Koke. Coke-Ola. Toka-Cola. Store shelves were chaos. So in 1915, the company asked glassmakers for a bottle you could recognize in the dark just by touch. The Root Glass Company in Terre Haute, Indiana won. And the funny part? Their designers went looking for the coca plant in an encyclopedia, landed on the cocoa pod by mistake, and based the curves on that. Wrong plant. Iconic bottle. On a crowded shelf, your hand found Coke before your eyes did. The packaging itself became a pathway to market.
 
